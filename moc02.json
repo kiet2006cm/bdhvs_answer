@@ -1,0 +1,926 @@
+[
+  {
+    "Q_ID": "#b332f4",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#0818a7",
+    "Answer": "Cả hai biển."
+  },
+  {
+    "Q_ID": "#76a4de",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#24cd3d",
+    "Answer": "Đường cấm súc vật vận tải hàng hóa hoặc hành khách dù kéo xe hay chở trên lưng đi qua."
+  },
+  {
+    "Q_ID": "#f81d03",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#91d81f",
+    "Answer": "Biển 1 và 3."
+  },
+  {
+    "Q_ID": "#2b593f",
+    "Answer": "Biển 1 và 2."
+  },
+  {
+    "Q_ID": "#7c29bd",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#be77cd",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#8ebb8d",
+    "Answer": "Cho phép ô tô có tải trọng trên trục xe từ 7 tấn trở xuống đi qua."
+  },
+  {
+    "Q_ID": "#1ddd3e",
+    "Answer": "Cấm các loại xe có tải trọng toàn bộ trên 10 tấn đi qua."
+  },
+  {
+    "Q_ID": "#6f37a0",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#d5524a",
+    "Answer": "Để báo trước nơi có kết cấu mặt đường rời rạc, khi phương tiện đi qua, làm cho các viên đá, sỏi văng lên gây nguy hiểm và mất an toàn cho người và phương tiện tham gia giao thông."
+  },
+  {
+    "Q_ID": "#3df02d",
+    "Answer": "Biển 2 và 3."
+  },
+  {
+    "Q_ID": "#e612e5",
+    "Answer": "Cả hai biển."
+  },
+  {
+    "Q_ID": "#be551a",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#6058d7",
+    "Answer": "Biển 2 và 3."
+  },
+  {
+    "Q_ID": "#49259f",
+    "Answer": "Báo hiệu đường có gồ giảm tốc phía trước."
+  },
+  {
+    "Q_ID": "#376046",
+    "Answer": "Cả hai biển."
+  },
+  {
+    "Q_ID": "#9788a3",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#e0e925",
+    "Answer": "Tốc độ tối đa cho phép về ban đêm cho các phương tiện là 70 km/h."
+  },
+  {
+    "Q_ID": "#0b88cd",
+    "Answer": "Biển 1 và 2."
+  },
+  {
+    "Q_ID": "#adbb0d",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#1ea216",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#fece35",
+    "Answer": "Biển 2 và 3."
+  },
+  {
+    "Q_ID": "#291e3f",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#f2fa04",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#0a00ea",
+    "Answer": "Biển báo hiệu cho người lái xe biết số lượng làn đường trên mặt đường và hướng đi trên mỗi làn đường phải theo."
+  },
+  {
+    "Q_ID": "#978b90",
+    "Answer": "Không được phép."
+  },
+  {
+    "Q_ID": "#dd9f5",
+    "Answer": "Biển 2 và 3."
+  },
+  {
+    "Q_ID": "#82fa",
+    "Answer": "Có."
+  },
+  {
+    "Q_ID": "#941",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#17",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#d",
+    "Answer": "Biển 1 và 2."
+  },
+  {
+    "Q_ID": "#82fb7e",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#d42abb",
+    "Answer": "Báo trước sắp đến bến phà."
+  },
+  {
+    "Q_ID": "#5555ee",
+    "Answer": "Không được phép."
+  },
+  {
+    "Q_ID": "#0f3f14",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#c4ddce",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#1370a3",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#c9b464",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#bc8e93",
+    "Answer": "Báo hiệu khu vực có đường dây điện cắt ngang phía trên tuyến đường."
+  },
+  {
+    "Q_ID": "#f84d4a",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#b8332c",
+    "Answer": "Cả hai biển."
+  },
+  {
+    "Q_ID": "#d88a81",
+    "Answer": "Biển 1 và 3."
+  },
+  {
+    "Q_ID": "#ffadd0",
+    "Answer": "Biển 1 và 2."
+  },
+  {
+    "Q_ID": "#3b6de3",
+    "Answer": "Biển 1 và 2."
+  },
+  {
+    "Q_ID": "#064467",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#292357",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#e8217",
+    "Answer": "Biển 2 và 3."
+  },
+  {
+    "Q_ID": "#bce9",
+    "Answer": "Cả hai biển."
+  },
+  {
+    "Q_ID": "#463",
+    "Answer": "Không được phép."
+  },
+  {
+    "Q_ID": "#1a",
+    "Answer": "Không được phép."
+  },
+  {
+    "Q_ID": "#e",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#1069db",
+    "Answer": "Biển 1 và 2."
+  },
+  {
+    "Q_ID": "#3072ce",
+    "Answer": "Báo hiệu đường có ổ gà, lồi lõm."
+  },
+  {
+    "Q_ID": "#491e62",
+    "Answer": "Biển 1 và biển 2."
+  },
+  {
+    "Q_ID": "#16e5c1",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#d1ce2e",
+    "Answer": "Biển 1 và 2."
+  },
+  {
+    "Q_ID": "#665de7",
+    "Answer": "Biển 1 và 3."
+  },
+  {
+    "Q_ID": "#ca79b8",
+    "Answer": "Chỗ ngoặt nguy hiểm có nguy cơ lật xe bên phải khi đường cong vòng sang trái."
+  },
+  {
+    "Q_ID": "#e8f18e",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#55b997",
+    "Answer": "Không được phép."
+  },
+  {
+    "Q_ID": "#8d379d",
+    "Answer": "Được đi vào."
+  },
+  {
+    "Q_ID": "#c526b1",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#3c53fc",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#34c242",
+    "Answer": "Biển 1 và 2."
+  },
+  {
+    "Q_ID": "#a56e59",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#cbb83e",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#be562e",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#1052b9",
+    "Answer": "Biển 2 và 3."
+  },
+  {
+    "Q_ID": "#de74c1",
+    "Answer": "Cả ba biển."
+  },
+  {
+    "Q_ID": "#a1b3d6",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#38e56f",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#1784c0",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#f16a37",
+    "Answer": "Để cảnh báo những đoạn nền đường yếu, đoạn đường đang theo dõi lún mà việc vận hành xe ở tốc độ cao có thể gây nguy hiểm."
+  },
+  {
+    "Q_ID": "#83ecb6",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#dec0fb",
+    "Answer": "Để báo trước gần tới đoạn đường có hiện tượng đất đá từ trên ta luy dương sụt lở bất ngờ gây nguy hiểm cho xe cộ và người đi đường."
+  },
+  {
+    "Q_ID": "#6fc2fb",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#05a6e4",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#4cabf3",
+    "Answer": "Chỉ dẫn khoảng cách đến làn đường cứu nạn (làn thoát xe khẩn cấp)."
+  },
+  {
+    "Q_ID": "#2b5518",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#c7c719",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#b8594b",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#a290b0",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#859e7c",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#0ddc36",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#74992f",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#505872",
+    "Answer": "Để chỉ nơi đường sắt giao vuông góc với đường bộ không có rào chắn."
+  },
+  {
+    "Q_ID": "#ec34d4",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#c623b4",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#d285da",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#8d287f",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#94308",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#a0c1",
+    "Answer": "Báo hiệu tốc độ tối thiểu cho phép các xe cơ giới chạy."
+  },
+  {
+    "Q_ID": "#671",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#fb",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#d",
+    "Answer": "Đi chậm, quan sát và dừng lại nếu gặp gia súc trên đường."
+  },
+  {
+    "Q_ID": "#f4ca45",
+    "Answer": "Biển 1 và 3."
+  },
+  {
+    "Q_ID": "#8cfc87",
+    "Answer": "Biển 2 và 3."
+  },
+  {
+    "Q_ID": "#b690dd",
+    "Answer": "Biển 1 và 2."
+  },
+  {
+    "Q_ID": "#88074a",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#f6abcb",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#00cc03",
+    "Answer": "Biển 1 và 3."
+  },
+  {
+    "Q_ID": "#d93cf7",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#ebcd20",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#fc3958",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#8826eb",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#9e7482",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#07d0a6",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#269f5a",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#be7cc8",
+    "Answer": "Biển 1 và 2."
+  },
+  {
+    "Q_ID": "#1f1689",
+    "Answer": "Được phép chuyển sang làn khác."
+  },
+  {
+    "Q_ID": "#368cb0",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#810f04",
+    "Answer": "Biển chỉ dẫn hết cấm đỗ xe theo giờ trong khu vực."
+  },
+  {
+    "Q_ID": "#dcd00a",
+    "Answer": "Phải giảm tốc độ đến mức an toàn và không được vượt khi đi qua khu vực này."
+  },
+  {
+    "Q_ID": "#b819f8",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#90d2cc",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#0df715",
+    "Answer": "Không biển nào."
+  },
+  {
+    "Q_ID": "#b8aea1",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#aec07c",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#79bfc5",
+    "Answer": "Biển 1 và 2."
+  },
+  {
+    "Q_ID": "#58a8f7",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#1778d7",
+    "Answer": "Cả hai biển."
+  },
+  {
+    "Q_ID": "#f8bf2c",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#258bba",
+    "Answer": "Có."
+  },
+  {
+    "Q_ID": "#5d7f9d",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#f75deb",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#0b111d",
+    "Answer": "Không."
+  },
+  {
+    "Q_ID": "#604651",
+    "Answer": "Báo hiệu cầu vượt liên thông."
+  },
+  {
+    "Q_ID": "#431a39",
+    "Answer": "Biển 2 và 3."
+  },
+  {
+    "Q_ID": "#68dab6",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#07a1e5",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#8312fa",
+    "Answer": "Để báo trước sắp đến vị trí đường sắt giao không vuông góc với đường bộ, không có người gác và không có rào chắn."
+  },
+  {
+    "Q_ID": "#8b8312",
+    "Answer": "Biển 1 và 2."
+  },
+  {
+    "Q_ID": "#32ab53",
+    "Answer": "Cả hai biển."
+  },
+  {
+    "Q_ID": "#72bee1",
+    "Answer": "Đỗ từ 1/2 thân xe trở lên trên hè phố."
+  },
+  {
+    "Q_ID": "#f40ede",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#b3d3e2",
+    "Answer": "Biển hạn chế tốc độ tối đa trong khu vực."
+  },
+  {
+    "Q_ID": "#20c406",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#b32a7b",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#62ba6f",
+    "Answer": "Biển 1 và 3."
+  },
+  {
+    "Q_ID": "#596a41",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#760fb8",
+    "Answer": "Xăng dầu, ăn uống, thông tin, sửa chữa xe."
+  },
+  {
+    "Q_ID": "#122de8",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#b0df2e",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#17bf73",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#4e8efc",
+    "Answer": "Biển 1 và 2."
+  },
+  {
+    "Q_ID": "#a5327e",
+    "Answer": "Bắt buộc."
+  },
+  {
+    "Q_ID": "#e24d6e",
+    "Answer": "Biển 1 và 2."
+  },
+  {
+    "Q_ID": "#156aa1",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#5e7313",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#6b8550",
+    "Answer": "Hạn chế chiều ngang của xe và hàng."
+  },
+  {
+    "Q_ID": "#0f4aa9",
+    "Answer": "Cấm các loại xe ở biển phụ đi vào."
+  },
+  {
+    "Q_ID": "#a6e8dd",
+    "Answer": "Cấm ô tô chở khách."
+  },
+  {
+    "Q_ID": "#c5a090",
+    "Answer": "Cấm đỗ xe và cấm dừng xe theo hướng bên phải."
+  },
+  {
+    "Q_ID": "#f7d53a",
+    "Answer": "Cấm xe ô tô và mô tô (trừ xe ưu tiên theo luật định) đi về bên trái và bên phải."
+  },
+  {
+    "Q_ID": "#c6e1e1",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#6d9876",
+    "Answer": "Không được phép."
+  },
+  {
+    "Q_ID": "#304e0c",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#e52b1a",
+    "Answer": "Chiều dài đoạn đường cấm bóp còi từ nơi đặt biển."
+  },
+  {
+    "Q_ID": "#08b455",
+    "Answer": "Chỉ dẫn khoảng cách đến trạm kiểm tra tải trọng xe cách 750 m."
+  },
+  {
+    "Q_ID": "#008d0a",
+    "Answer": "Chỉ dẫn vị trí nhập làn xe cách 250 m."
+  },
+  {
+    "Q_ID": "#1c10a1",
+    "Answer": "Cả ý 1 và ý 3."
+  },
+  {
+    "Q_ID": "#25ec1d",
+    "Answer": "Vạch 3."
+  },
+  {
+    "Q_ID": "#d55860",
+    "Answer": "Vị trí dừng xe của các phương tiện vận tải hành khách công cộng."
+  },
+  {
+    "Q_ID": "#953f5b",
+    "Answer": "Vạch 1 và vạch 3."
+  },
+  {
+    "Q_ID": "#ffa094",
+    "Answer": "Báo hiệu sắp đến chỗ có bố trí vạch đi bộ qua đường."
+  },
+  {
+    "Q_ID": "#1bcb0e",
+    "Answer": "Biển 1 và 3."
+  },
+  {
+    "Q_ID": "#57d4c2",
+    "Answer": "Vạch 1 và 3."
+  },
+  {
+    "Q_ID": "#dfd3fe",
+    "Answer": "Vạch 2."
+  },
+  {
+    "Q_ID": "#6d2c17",
+    "Answer": "Dùng để xác định khoảng cách giữa các phương tiện trên đường."
+  },
+  {
+    "Q_ID": "#4e5f34",
+    "Answer": "Phân chia hai chiều xe chạy ngược chiều nhau."
+  },
+  {
+    "Q_ID": "#fce87d",
+    "Answer": "Phân chia các làn xe chạy cùng chiều nhau."
+  },
+  {
+    "Q_ID": "#a1bd2f",
+    "Answer": "Vạch 1 và 2."
+  },
+  {
+    "Q_ID": "#f570ba",
+    "Answer": "Biển 3."
+  },
+  {
+    "Q_ID": "#7ee73f",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#ce3a92",
+    "Answer": "Biển 1."
+  },
+  {
+    "Q_ID": "#e1cc2d",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#f912a4",
+    "Answer": "Tốc độ tối đa các xe cơ giới được phép chạy."
+  },
+  {
+    "Q_ID": "#fa5218",
+    "Answer": "Biển 2."
+  },
+  {
+    "Q_ID": "#5fcdc2",
+    "Answer": "0,25 mét."
+  },
+  {
+    "Q_ID": "#a2f2d3",
+    "Answer": "Gặp biển báo nguy hiểm trên đường."
+  },
+  {
+    "Q_ID": "#73a63e",
+    "Answer": "Đi đúng làn đường, đúng tốc độ quy định, không được vượt xe khác."
+  },
+  {
+    "Q_ID": "#e79086",
+    "Answer": "Người điều khiển phương tiện tham gia giao thông phải nghiêm chỉnh chấp hành quy định về tốc độ, khoảng cách an toàn tối thiểu giữa hai xe."
+  },
+  {
+    "Q_ID": "#6ef8e7",
+    "Answer": "Tiếp tục chạy đến lối ra tiếp theo."
+  },
+  {
+    "Q_ID": "#72a314",
+    "Answer": "Tất cả các ý trên."
+  },
+  {
+    "Q_ID": "#976ce0",
+    "Answer": "Không được phép."
+  },
+  {
+    "Q_ID": "#eea392",
+    "Answer": "Xe chữa cháy, xe quân sự, xe công an, xe cứu thương, xe hộ đê đi làm nhiệm vụ khẩn cấp có tín hiệu còi, cờ, đèn theo quy định của pháp luật."
+  },
+  {
+    "Q_ID": "#aa780a",
+    "Answer": "Ô tô buýt; ô tô đầu kéo kéo sơ mi rơ moóc; xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông)."
+  },
+  {
+    "Q_ID": "#83d50a",
+    "Answer": "Ô tô buýt, ô tô đầu kéo kéo sơ mi rơ moóc, xe mô tô, ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông)."
+  },
+  {
+    "Q_ID": "#d7e4e6",
+    "Answer": "Phương tiện giao thông đường sắt."
+  },
+  {
+    "Q_ID": "#337933",
+    "Answer": "Không được lùi xe."
+  },
+  {
+    "Q_ID": "#55bb3b",
+    "Answer": "Không được dừng, đỗ."
+  },
+  {
+    "Q_ID": "#229439",
+    "Answer": "Giảm tốc độ, có thể dừng lại nếu cần thiết trước vạch dừng xe để nhường đường cho người đi bộ qua đường."
+  },
+  {
+    "Q_ID": "#bb7387",
+    "Answer": "Không được phép."
+  },
+  {
+    "Q_ID": "#59b28d",
+    "Answer": "Để giảm thiểu chấn thương vùng đầu."
+  },
+  {
+    "Q_ID": "#add6a5",
+    "Answer": "Bạn phải có tín hiệu bằng đèn hoặc còi."
+  },
+  {
+    "Q_ID": "#67844c",
+    "Answer": "Nhanh chóng đặt báo hiệu trên đường sắt cách tối thiểu 500 mét về hai phía để báo cho người điều khiển phương tiện đường sắt và tìm cách báo cho người quản lý đường sắt, nhà ga nơi gần nhất, đồng thời phải bằng mọi biện pháp nhanh chóng đưa ô tô hỏng ra khỏi phạm vi an toàn đường sắt."
+  },
+  {
+    "Q_ID": "#489396",
+    "Answer": "Cả ý 1 và ý 2."
+  },
+  {
+    "Q_ID": "#94dc60",
+    "Answer": "Lạng lách, đánh võng trên đường bộ."
+  },
+  {
+    "Q_ID": "#6cc9a6",
+    "Answer": "50 km/h."
+  },
+  {
+    "Q_ID": "#8ad17e",
+    "Answer": "Bật đèn tín hiệu khẩn cấp, khi đủ điều kiện an toàn nhanh chóng đưa xe vào làn dừng đỗ khẩn cấp, đặt biển báo hiệu nguy hiểm để cánh báo cho các xe khác."
+  },
+  {
+    "Q_ID": "#8bee94",
+    "Answer": "Đỏ - Vàng - Xanh."
+  },
+  {
+    "Q_ID": "#f63d95",
+    "Answer": "Cả ý 1 và ý 2."
+  },
+  {
+    "Q_ID": "#21795f",
+    "Answer": "55 m."
+  },
+  {
+    "Q_ID": "#8dfc97",
+    "Answer": "70 m."
+  },
+  {
+    "Q_ID": "#d17f8e",
+    "Answer": "40 km/h."
+  },
+  {
+    "Q_ID": "#4e202e",
+    "Answer": "20 mét."
+  },
+  {
+    "Q_ID": "#347c4d",
+    "Answer": "Tất cả các ý nêu trên."
+  },
+  {
+    "Q_ID": "#06974",
+    "Answer": "60 km/h."
+  },
+  {
+    "Q_ID": "#d8df",
+    "Answer": "Là đoạn đường bộ nằm trong khu vực nội thành phố, nội thị xã, nội thị trấn và những đoạn đường có đông dân cư sinh sống sát dọc theo đường, có các hoạt động ảnh hưởng đến an toàn giao thông; được xác định bằng biển báo hiệu là đường khu đông dân cư."
+  },
+  {
+    "Q_ID": "#70f",
+    "Answer": "Cả ý 1 và ý 3."
+  },
+  {
+    "Q_ID": "#69",
+    "Answer": "Tuân thủ tốc độ tối đa, tốc độ tối thiểu ghi trên biển báo hiệu đường bộ, sơn kẻ mặt đường trên các làn xe."
+  },
+  {
+    "Q_ID": "#d",
+    "Answer": "Ô tô kéo rơ moóc, ô tô kéo xe khác, ô tô trộn vữa, ô tô trộn bê tông, ô tô xi téc."
+  },
+  {
+    "Q_ID": "#05c324",
+    "Answer": "Ô tô con, ô tô tải, ô tô chở người trên 30 chỗ."
+  },
+  {
+    "Q_ID": "#d8b9cb",
+    "Answer": "Quan sát, dừng xe tại nơi quy định; nghỉ cho đến khi hết buồn ngủ và đi tiếp."
+  },
+  {
+    "Q_ID": "#5f474d",
+    "Answer": "Ô tô con, ô tô tải, ô tô chở người trên 30 chỗ."
+  },
+  {
+    "Q_ID": "#c140e3",
+    "Answer": "Khi xe sau xin vượt và đảm bảo an toàn."
+  },
+  {
+    "Q_ID": "#d8f289",
+    "Answer": "Ô tô kéo rơ moóc, ô tô kéo xe khác, ô tô trộn vữa, ô tô trộn bê tông, ô tô xi téc."
+  },
+  {
+    "Q_ID": "#92c140",
+    "Answer": "Cả ý 1 và ý 2."
+  },
+  {
+    "Q_ID": "#f33ea8",
+    "Answer": "100 m."
+  },
+  {
+    "Q_ID": "#971c81",
+    "Answer": "Ô tô chở người trên 30 chỗ (trừ ô tô buýt), ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc)."
+  },
+  {
+    "Q_ID": "#22698a",
+    "Answer": "Phải đội mũ bảo hiểm đạt chuẩn, có cài quai đúng quy cách, mặc quần áo gọn gàng; không sử dụng ô, điện thoại di động, thiết bị âm thanh (trừ thiết bị trợ thính)."
+  },
+  {
+    "Q_ID": "#16045c",
+    "Answer": "Xe ô tô con, xe ô tô chở người đến 30 chỗ (trừ ô tô buýt), ô tô tải có trọng tải đến 3,5 tấn."
+  },
+  {
+    "Q_ID": "#37e31a",
+    "Answer": "Ô tô chở người trên 30 chỗ (trừ ô tô buýt), ô tô tải có trọng tải trên 3,5 tấn (trừ ô tô xi téc)."
+  },
+  {
+    "Q_ID": "#d1bba4",
+    "Answer": "Giảm tốc độ đến mức an toàn có thể và quan sát người qua đường và từ từ vượt qua xe buýt."
+  },
+  {
+    "Q_ID": "#112a53",
+    "Answer": "Cho xe dừng ngay lại và giữ khoảng cách tối thiểu 5 mét tính từ ray gần nhất."
+  },
+  {
+    "Q_ID": "#618c1c",
+    "Answer": "Nếu đủ điều kiện an toàn, người lái xe phải giảm tốc độ, đi sát về bên phải của phần đường xe chạy cho đến khi xe sau đã vượt qua, không được gây trở ngại đối với xe xin vượt."
+  },
+  {
+    "Q_ID": "#4b6ff7",
+    "Answer": "Nhường đường cho xe đi trên đường ưu tiên từ bất kỳ hướng nào tới."
+  },
+  {
+    "Q_ID": "#42f35",
+    "Answer": "Xe ô tô con, xe ô tô chở người đến 30 chỗ (trừ xe buýt), ô tô tải có trọng tải nhỏ hơn hoặc bằng 3,5 tấn."
+  }
+]
